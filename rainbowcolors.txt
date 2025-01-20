@@ -1,1 +1,2 @@
 read is the first color of rainbow
+orange is the second color of rainbow
